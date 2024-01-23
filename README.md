@@ -1,6 +1,9 @@
 **Introductions**
 
 
+**Instructions**
+`Covid 19 Cases PredictionAssignment.ipynb`
+
 Credit for dataset goes to: [MoH-Malaysia](https://github.com/MoH-Malaysia/covid19-public)
 
 
