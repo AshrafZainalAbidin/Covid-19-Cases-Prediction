@@ -2,7 +2,10 @@
 
 
 **Instructions**
-`Covid 19 Cases PredictionAssignment.ipynb`
+
+The main file is `Covid 19 Cases PredictionAssignment.ipynb`, where you will be running all the cells. There is no separate class .py file as it is already integrated within the main file.
+
+The dataset will also be downloaded when you run the file
 
 Credit for dataset goes to: [MoH-Malaysia](https://github.com/MoH-Malaysia/covid19-public)
 
