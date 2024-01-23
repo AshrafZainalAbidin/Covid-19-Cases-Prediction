@@ -4,9 +4,9 @@ The objective of this project is to develop a deep time series learning system t
 
 **Instructions**
 
-The main file is `Covid 19 Cases PredictionAssignment.ipynb`, where you will be running all the cells. There is no separate class .py file as it is already integrated within the main file.
+The main file is `Covid 19 Cases PredictionAssignment.ipynb`, where running all the cells will perform its deep learning operation after downloading the dataset. There is no separate class .py file as it is already integrated within the main file.
 
-The dataset will also be downloaded when you run the file
+The dataset is also not included in this repository as it will be automatically downloaded when the python file.
 
 Credit for dataset goes to: [MoH-Malaysia](https://github.com/MoH-Malaysia/covid19-public)
 
