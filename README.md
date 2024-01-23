@@ -1,4 +1,5 @@
 **Introductions**
+
 The objective of this project is to develop a deep time series learning system to predict Covid-19 infection rate over time based on the data from the past 30 days.
 
 **Instructions**
