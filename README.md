@@ -1,4 +1,7 @@
-Credit for dataset goes to: https://github.com/MoH-Malaysia/covid19-public
+**Introductions**
+
+
+Credit for dataset goes to: [MoH-Malaysia](https://github.com/MoH-Malaysia/covid19-public)
 
 
 Model architecture:
